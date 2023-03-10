@@ -1,0 +1,101 @@
+[
+  {
+    "domain": "divar.ir",
+    "expiry": 1708912622,
+    "httpOnly": false,
+    "name": "_ga_SXEW31VJGJ",
+    "path": "/",
+    "secure": false,
+    "value": "GS1.1.1674351508.1.1.1674352622.36.0.0"
+  },
+  {
+    "domain": "divar.ir",
+    "expiry": 1682127508,
+    "httpOnly": false,
+    "name": "_gcl_au",
+    "path": "/",
+    "secure": true,
+    "value": "1.1.721736738.1674351509"
+  },
+  {
+    "domain": "divar.ir",
+    "expiry": 1708912621,
+    "httpOnly": false,
+    "name": "city",
+    "path": "/",
+    "secure": false,
+    "value": "tehran"
+  },
+  {
+    "domain": "divar.ir",
+    "expiry": 1708911507,
+    "httpOnly": false,
+    "name": "did",
+    "path": "/",
+    "secure": true,
+    "value": "104ae6b8-34f0-410a-804c-825822888410"
+  },
+  {
+    "domain": "divar.ir",
+    "expiry": 1708912621,
+    "httpOnly": false,
+    "name": "multi-city",
+    "path": "/",
+    "secure": false,
+    "value": "tehran%7C"
+  },
+  {
+    "domain": "divar.ir",
+    "expiry": 1708912622,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "secure": false,
+    "value": "GA1.1.1808795591.1674351509"
+  },
+  {
+    "domain": "divar.ir",
+    "expiry": 1674352679,
+    "httpOnly": false,
+    "name": "_gat_UA-32884252-2",
+    "path": "/",
+    "secure": false,
+    "value": "1"
+  },
+  {
+    "domain": "divar.ir",
+    "expiry": 1674438921,
+    "httpOnly": false,
+    "name": "_gid",
+    "path": "/",
+    "secure": true,
+    "value": "GA1.2.101905766.1674351509"
+  },
+  {
+    "domain": "divar.ir",
+    "expiry": 1674352636,
+    "httpOnly": false,
+    "name": "_gat_gtag_UA_32884252_2",
+    "path": "/",
+    "secure": true,
+    "value": "1"
+  },
+  {
+    "domain": "divar.ir",
+    "expiry": 1708912541,
+    "httpOnly": false,
+    "name": "token",
+    "path": "/",
+    "secure": true,
+    "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyIjoiMDkzNTY1NjQ0ODciLCJpc3MiOiJhdXRoIiwidmVyaWZpZWRfdGltZSI6MTY3NDM1MjU0MCwiaWF0IjoxNjc0MzUyNTQwLCJleHAiOjE2NzU2NDg1NDAsInVzZXItdHlwZSI6InBlcnNvbmFsIiwidXNlci10eXBlLWZhIjoiXHUwNjdlXHUwNjQ2XHUwNjQ0IFx1MDYzNFx1MDYyZVx1MDYzNVx1MDZjYyIsInNpZCI6Ijk4MDExNGRiLTQ1MDgtNDkxMi05Y2VmLWE5NTk0ODk5Mzk1NiJ9.HRH7TIKWDMBkkNO4RHgsXDu697dM9q1VGY_9WWpfHEw"
+  },
+  {
+    "domain": "divar.ir",
+    "expiry": 1674352679,
+    "httpOnly": false,
+    "name": "_gat",
+    "path": "/",
+    "secure": false,
+    "value": "1"
+  }
+]
