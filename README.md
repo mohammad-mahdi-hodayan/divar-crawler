@@ -56,4 +56,4 @@ After all these boring steps, at the end just run `advanced-crawler.py` and enjo
 
 I hope this code helps you, enjoy your evry moment in your life and be helpful for other. 
 
-> all from a progressing person (MMH)
+> all from a progressing person (MMH) 🌈🤍
